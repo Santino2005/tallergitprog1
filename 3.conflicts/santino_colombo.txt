@@ -1,0 +1,10 @@
+
+
+Practica:
+
+10. Puedo observar el cambio que se le realizo al archivo original y al guardado
+11. Puedo observar como se me permite hacer un commit
+12. Si funciono
+13. No funciono
+14. Aparece que no puedo commitear el archivo modificado.
+15. Observo pan rallado y bife

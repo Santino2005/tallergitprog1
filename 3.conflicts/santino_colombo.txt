@@ -1,4 +1,6 @@
-
+Teorica:
+1. Un conflicto, es un error que ocurre cuando se modifica el mismo archivo en varias branchs, en mi opinion es algo malo, ya que es un problema a solucionar que hace que se pierda tiempo.
+2. Si se puede evitar, la solucion es utilizar una unica branch o ir fusionando frecuentmente
 
 Practica:
 
